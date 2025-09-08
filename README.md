@@ -27,11 +27,6 @@
 
 ---
 
-## 🎓 My React Course
-👉 Learn React.js from zero to hero in my **hands-on video course** with modern practices.  
-🔗 [Click here to access](https://your-course-link.com)
-
----
 
 ## 📊 GitHub Stats
 
