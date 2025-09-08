@@ -2,7 +2,7 @@
 <div align="center">
 <!--   <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Avatar" width="150" style="border-radius:50%" /> -->
   
-  <h1>Hey 👋, I'm Khuc Phat</h1>
+  <h1 align="left">👋 Hey, I'm Khuc Phat</h1>
   
   <!-- Hiệu ứng typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+UI+%26+Performance;Always+learning+new+things" alt="Typing SVG" />
