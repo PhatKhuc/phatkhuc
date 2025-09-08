@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 My Favorite Stack  
+## 🚀 My Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=for-the-badge" />
